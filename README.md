@@ -4,7 +4,7 @@
 
 # Game Rules
 
-A player inputs a guessed number between 1 to 20 and everytime the number guessed does not match the mystery number, the score is deducted by one. If the player guesses the correct number, the current score is the player's highscore. The highest score a player a can get is 20.
+A player inputs a guessed number between 1 to 20 and everytime the number guessed does not match the mystery number, the score is deducted by one. If the player guesses the correct number, the current score is the player's highscore. The highest score a player can get is 20.
 
 # How to launch the game
 
